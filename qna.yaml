@@ -1,0 +1,218 @@
+version: 3
+domain: career_counselling
+created_by: Nishith P Agrawal
+seed_examples:
+  - context: |
+      college_name: Georgetown University
+      rank: #1 in Best Catholic Colleges in America
+      grade: A+
+      description: editorial\nGeorgetown is a highly rated private, Catholic university located in Washington, D.C. It is a mid-size institution with an enrollment of 7,187 undergraduate students. Admissions is extremely competitive as the Georgetown acceptance rate is 12%. Popular majors include Political Science and Government, International Relations, and Finance. Graduating 96% of students, Georgetown alumni go on to earn a starting salary of $65,200.
+      url: https://www.georgetown.edu/
+      location: 37TH AND O ST NW\nWASHINGTON, DC 20057
+      application_deadline: January 10
+      acceptance_rate: 12%
+      sat_range: 1410-1560
+      act_range: 32-35
+      application_fee: $75
+      is_sat_act: Required
+      high_school_gpa: Required
+      application_website: https://uapply.georgetown.edu/register/firstyearapplication
+      net_price_per_year: $35,566
+      avg_total_aid_per_year: $45,949
+      students_receiving_aid: 45%
+      offers_online_courses: Yes
+      programs_offered_entirely_online: 0
+      full_time_undergrad: 7,187
+      median_earnings_6_years_after_graduation: $93,500
+      graduation_rate: 96%
+      employed_2_years_after_grad: 92%
+    questions_and_answers:
+      - question: |
+          What is the grade for Georgetown University
+        answer: |
+          Georgetown University is rated A+.
+      - question: |
+          Typically, when is their application deadline for Georgetown.
+        answer: |
+          Georgetown's application deadline is usually in January.
+      - question: |
+          What is the acceptance rate for Georgetown University?
+        answer: |
+          Acceptance rate for Georgetown is in the 10-15% range. Last year it was roughly 12%.
+      - question: |
+          What kind of SAT and ACT scores do students need to have in order to get an admissions into Georgetown University.
+        answer: |
+          Typically, Georgetown expects ACT score in the 32-35 range, and SAT scores above 1400.
+
+  - context: |
+      college_name: Duke University
+      rank: #1 in Best Colleges in North Carolina
+      grade: A+
+      description: From Duke University\nExceptional academics, enviable spirit, and supportive community: there's no school like Duke.\nEndowed in 1924, we're a student-driven university with the ambition and audacity to make a global impact. We're Cameron Crazies and ballet dancers. We're lemur researchers and social entrepreneurs. We're hospital caregivers and public policymakers. We're Nobel laureates and National Champions.\nWith more than 50 majors, Duke will provide you with limitless intellectual opportunities to develop your mind through programs like Bass Connections and Focus.\nOn top of all the possibilities on campus, Duke is located in one of America's most dynamic areas: the city of Durham, in North Carolina's Research Triangle region. There are a million things to love on our home turf, from the fantastic food, to the arts, to technology.\nThe more you dig into what we're about, the more you'll find that this is one of the world's most responsive, engaging, and supportive universities.\nOffice of Undergraduate Admissions\nTrinity College of Arts and Sciences\nPratt School of Engineering\nFinancial Aid
+      url: https://duke.edu/
+      location: 2080 DUKE UNIVERSITY RD.\nDURHAM, NC 27708
+      application_deadline: January 2
+      acceptance_rate: 6%
+      sat_range: 1490-1570
+      act_range: 34-35
+      application_fee: $85
+      is_sat_act: Considered but not required
+      high_school_gpa: Required
+      application_website": null, "net_price_per_year: $23,694
+      avg_total_aid_per_year: $57,444
+      students_receiving_aid: 57%
+      offers_online_courses: Yes
+      programs_offered_entirely_online: 0
+      full_time_undergrad: 6,435
+      median_earnings_6_years_after_graduation: $84,400
+      graduation_rate: 97%
+      employed_2_years_after_grad: 94%
+    questions_and_answers:
+      - question: |
+          What is the grade for Duke University
+        answer: |
+          Duke University is rated A+.
+      - question: |
+          Typically, when is their application deadline for Duke?
+        answer: |
+          Duke's application deadline is usually in January.
+      - question: |
+          What is the acceptance rate for Duke University?
+        answer: |
+          Acceptance rate for Duke is in the 5-10% range. Last year it was roughly 6%.
+      - question: |
+          What kind of SAT and ACT scores do students need to have in order to get an admissions into Duke University.
+        answer: |
+          Typically, Georgetown expects ACT score in the 34-35 range, and SAT scores above 1490.
+
+  - context: |
+      college_name: Harvard University
+      rank: #2 in Colleges with the Best Professors in America
+      grade: A+
+      description: editorial\nHarvard is an elite private university located in Cambridge, Massachusetts in the Boston Area. It is a mid-size institution with an enrollment of 7,516 undergraduate students. Admissions is extremely competitive as the Harvard acceptance rate is only 3%. Popular majors include Social Science Research Methods, Economics, and Computer Science. Graduating 98% of students, Harvard alumni go on to earn a starting salary of $70,300.
+      url: https://college.harvard.edu/
+      location: MASSACHUSETTS HALL\nCAMBRIDGE, MA 02138
+      application_deadline: January 1
+      acceptance_rate: 3%
+      sat_range: 1490-1580
+      act_range: 34-36
+      application_fee: $85
+      is_sat_act: Required
+      high_school_gpa: Considered but not required
+      application_website: https://college.harvard.edu/admissions/apply/application-requirements
+      net_price_per_year: $19,491
+      avg_total_aid_per_year: $61,801
+      students_receiving_aid: 72%
+      offers_online_courses: Yes
+      programs_offered_entirely_online: 4
+      full_time_undergrad: 7,516
+      median_earnings_6_years_after_graduation: $89,700
+      graduation_rate: 98%
+      employed_2_years_after_grad: 89%
+    questions_and_answers:
+      - question: |
+          What is the grade for Harvard University
+        answer: |
+          Harvard University is rated A+.
+      - question: |
+          Typically, when is their application deadline for Harvard.
+        answer: |
+          Harvard's application deadline is usually in January.
+      - question: |
+          What is the acceptance rate for Harvard University?
+        answer: |
+          Acceptance rate for Harvard is in the 2-5% range. Last year it was roughly 3%.
+      - question: |
+          What kind of SAT and ACT scores do students need to have in order to get an admissions into Harvard University.
+        answer: |
+          Typically, Harvard expects ACT score in the 34-36 range, and SAT scores above 1490.
+
+  - context: |
+      college_name: Harvey Mudd College
+      rank: #1 in Best Liberal Arts Colleges in America
+      grade: A+
+      description: editorial\nHarvey Mudd is a highly rated private college located in Claremont, California in the Los Angeles Area. It is a small institution with an enrollment of 906 undergraduate students. Admissions is extremely competitive as the Harvey Mudd acceptance rate is 13%. Popular majors include Computational and Applied Mathematics, Engineering, and Computer Science. Graduating 92% of students, Harvey Mudd alumni go on to earn a starting salary of $72,500.
+      url: https://www.hmc.edu/
+      location: 301 PLATT BLVD\nCLAREMONT, CA 91711
+      application_deadline: January 5
+      acceptance_rate: 13%
+      sat_range: 1480-1560
+      act_range: 34-36
+      application_fee: $70
+      is_sat_act: Considered but not required
+      high_school_gpa: Considered but not required
+      application_website: https://www.hmc.edu/admission/apply/
+      net_price_per_year: $39,850
+      avg_total_aid_per_year: $42,386
+      students_receiving_aid: 72%
+      offers_online_courses: No
+      programs_offered_entirely_online: 0
+      full_time_undergrad: 906
+      median_earnings_6_years_after_graduation: $88,800
+      graduation_rate: 92%
+      employed_2_years_after_grad: 89%
+    questions_and_answers:
+      - question: |
+          What is the grade forHarvey Mudd College
+        answer: |
+          Harvey Mudd College is rated A+.
+      - question: |
+          Typically, when is their application deadline for Harvey Mudd College.
+        answer: |
+          Harvey Mudd College's application deadline is usually in January.
+      - question: |
+          What is the acceptance rate for Harvey Mudd College?
+        answer: |
+          Acceptance rate for Harvey Mudd College is in the 10-15% range. Last year it was roughly 13%.
+      - question: |
+          What kind of SAT and ACT scores do students need to have in order to get an admissions into Harvey Mudd College.
+        answer: |
+          Typically, Georgetown expects ACT score in the 34-36 range, and SAT scores above 1480.
+
+  - context: |
+      college_name: Johns Hopkins University
+      rank: #1 in Best Colleges in Maryland
+      grade: A+
+      description: From Johns Hopkins University\nAt Johns Hopkins University, you\u2019ll have the relationships and resources to explore what you care about most\u2014and then dig deeper to make a difference in the world around you. Our Homewood campus in Baltimore consists of two undergraduate schools: Krieger School of Arts & Sciences and Whiting School of Engineering. With our flexible curriculum, you\u2019ll have the freedom to discover new interests and make exciting connections across disciplines. For information about Hopkins\u2019 music conservatory and dance program, see peabody.jhu.edu.\nHopkins has one of the most generous financial aid programs in the nation. We are 100% need met, no loan, and need-blind for domestic undergraduate students in the Krieger and Whiting Schools. That means if your family demonstrates you can only pay part of college costs, or none at all, we cover the rest through need-based scholarships and work-study opportunities. For international applicants, we\u2019re need-aware.\nMajors & Minors\nFinancial Aid\nLife at Hopkins\nPeabody Institute
+      url: https://apply.jhu.edu/
+      location: 3400 N CHARLES ST\nBALTIMORE, MD 21218
+      application_deadline: January 2
+      acceptance_rate: 7%
+      sat_range: 1520-1570
+      act_range: 34-35
+      application_fee: $70
+      is_sat_act: Considered but not required
+      high_school_gpa: Required
+      application_website": null, "net_price_per_year: $24,034
+      avg_total_aid_per_year: $54,405
+      students_receiving_aid: 67%
+      offers_online_courses: Yes
+      programs_offered_entirely_online: 0
+      full_time_undergrad: 5,644
+      median_earnings_6_years_after_graduation: $73,200
+      graduation_rate: 94%
+      employed_2_years_after_grad: 91%
+    questions_and_answers:
+      - question: |
+          What is the grade for Johns Hopkins University
+        answer: |
+          Johns Hopkins University is rated A+.
+      - question: |
+          Typically, when is their application deadline for Johns Hopkins.
+        answer: |
+          Johns Hopkins's application deadline is usually in January.
+      - question: |
+          What is the acceptance rate for Johns Hopkins University?
+        answer: |
+          Acceptance rate for Johns Hopkins is in the 5-10% range. Last year it was roughly 7%.
+      - question: |
+          What kind of SAT and ACT scores do students need to have in order to get an admissions into Johns Hopkins University.
+        answer: |
+          Typically, Johns Hopkins expects ACT score in the 34-35 range, and SAT scores above 1520.
+document_outline: |
+  College Career Options
+document:
+  repo: https://github.com/nprabhakar/rh-hackathon.git
+  commit: 603f3bfb939b237167b04633916417d06fed0dbe
+  patterns:
+    - data.md
